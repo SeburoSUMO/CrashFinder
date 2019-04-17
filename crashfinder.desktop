@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=crashfinder
+Exec=/usr/bin/x-terminal-emulator -e "/opt/crashfinder/crashfinderscript.sh"
+Terminal=true
+X-MultipleArgs=false
+Type=Application
+Icon=/opt/crashfinder/crashfinder.png
+Categories=GNOME;GTK;Development;
