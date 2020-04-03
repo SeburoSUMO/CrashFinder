@@ -2,7 +2,7 @@
 Version=1.0
 Name=CrashFinder
 Comment=Runs a script to help locate crashes
-Exec=/usr/bin/x-terminal-emulator -e "/opt/CrashFinder/CrashFinder.sh"
+Exec=/usr/bin/x-terminal-emulator -e "/opt/CrashFinder-Xubuntu/CrashFinder.sh"
 Terminal=true
 X-MultipleArgs=false
 Type=Application
