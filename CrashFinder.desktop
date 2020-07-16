@@ -6,5 +6,5 @@ Exec=/usr/bin/x-terminal-emulator -e "/opt/CrashFinder-Xubuntu/CrashFinder.sh"
 Terminal=true
 X-MultipleArgs=false
 Type=Application
-Icon=/opt/CrashFinder/CrashFinder.png
+Icon=/opt/CrashFinder-Xubuntu/CrashFinder.png
 Categories=GNOME;GTK;Development;
